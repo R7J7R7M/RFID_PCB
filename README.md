@@ -46,5 +46,6 @@ You can find these files in the **repository** under the relevant directories.
 
 If you notice any **mistakes or improvements** for this project, feel free to reach out. Additionally, if you have **new project ideas**, let's collaborate and build something great together! 🚀
 
-![Fabrication outcome](shared_image_4.jpg)
+![Alt text](shared%20image%20(4).jpg)
+
 
